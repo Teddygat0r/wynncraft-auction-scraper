@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "teddygat0r.wynnscraper.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
